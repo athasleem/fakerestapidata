@@ -1,0 +1,34 @@
+{
+"products":
+[
+  {
+    "id": 1,
+    "name": "Galaxy S5",
+    "description": "32GB, 2GB Ram, 1080HD, 5.1 inches, Android",
+    "price": "$649.99",
+	"image": "image4.jpg"
+    },
+	  
+	  {
+    "id": 2,
+    "name": "iPhone 6",
+    "description": "32GB, 64Bit, 1080HD, 4.7 inches, iOS 8",
+    "price": "$749.99"
+	"image": "image5.jpg"
+    },
+	  
+	  
+	  {
+    "id": 3,
+    "name": "Lumia 1520",
+    "description": "32GB, 4GB Ram, 1080HD",
+    "price": "$749.00"
+	"image": "image6.jpg"
+    }
+  
+	  
+ ] }
+
+
+
+
